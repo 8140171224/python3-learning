@@ -1,3 +1,9 @@
 # pyhton3
 # pyhton3
 # pyhton3
+# pyhton
+# script
+# py
+# hacking
+# A.I 
+# WP
