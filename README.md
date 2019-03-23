@@ -7,13 +7,13 @@ basic things you will find it difficule to get much programming done.
 ## Getting Started
 
 Let's download some ide base on your computer 
-For lowend computers
+#For lowend computers
 
 ```
 https://www.geany.org/Download/Releases
 ```
 
-For highend computers
+#For highend computers
 
 
 ```
